@@ -1,0 +1,12 @@
+User-agent: *
+# Directories
+Disallow: /sources/
+Disallow: /uploads/
+Disallow: /old-site/
+# Files
+Disallow: /send.php
+Disallow: /yandex_8ff0fb03c4222b52.html
+Disallow: /htaccess
+
+Sitemap: http://nolte-crimea.ru/sitemap.xml
+Host: http://nolte-crimea.ru
